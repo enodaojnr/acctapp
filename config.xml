@@ -4,14 +4,14 @@
 <widget xmlns       = "http://www.w3.org/ns/widgets"
     xmlns:gap       = "http://phonegap.com/ns/1.0"
     xmlns:android   = "http://schemas.android.com/apk/res/android"
-    id              = "AnyWork"
+    id              = "Accont Opener"
     version         = "1.0.0">
         
         <gap:config-file platform="android" parent="/manifest/application" >
         <application android:debuggable="false" />
        </gap:config-file>
     
-    <name>Any Work</name>
+    <name>Account Opener</name>
 
     <description>
         Any work is a sample application that responds to the deviceready event.
